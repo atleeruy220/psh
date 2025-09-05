@@ -1,4 +1,4 @@
-baseURL = "https://atleeruy220.github.io/psh/"
+baseURL = "http://localhost:1313/"
 title = "宠物星语辅助"
 canonifyURLs = true
 defaultContentLanguage = "zh"
