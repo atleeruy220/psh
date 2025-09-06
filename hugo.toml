@@ -26,6 +26,7 @@ defaultContentLanguage = "zh"
   BookCommitPath = "commit"
   BookDateFormat = "2006/01/02"
   BookEditLink = "https://github.com/atleeruy220/psh/edit/main/{{ .Path }}"
+  BookFavicon = "favicon.ico"
 
 [languages]
   [languages.zh]
