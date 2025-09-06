@@ -24,7 +24,7 @@ enableGitInfo = false
   BookTranslatedOnly = false
   BookCollapseSection = false
   BookToC = true
-  BookFavicon = "/w.ico"
+  BookFavicon = "w.ico"
   BookEditLink = "https://github.com/atleeruy220/psh/edit/main/{{ .Path }}"
 
 [languages]
