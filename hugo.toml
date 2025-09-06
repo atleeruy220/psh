@@ -2,7 +2,7 @@ baseURL = "https://atleeruy220.com/"
 title = "宠物星语辅助"
 canonifyURLs = true
 defaultContentLanguage = "zh"
-enableGitInfo = false
+enableGitInfo = ture
 
 [module]
   [[module.imports]]
