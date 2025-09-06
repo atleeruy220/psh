@@ -1,8 +1,8 @@
 baseURL = "https://atleeruy220.com/"
 title = "宠物星语辅助"
 canonifyURLs = true
-defaultContentLanguage = "zh"
 enableGitInfo = true
+defaultContentLanguage = "zh"
 
 [module]
   [[module.imports]]
@@ -21,10 +21,13 @@ enableGitInfo = true
   BookTheme = "auto"
   BookSection = "*"
   BookSearch = true
-  BookTranslatedOnly = false
-  BookCollapseSection = false
-  BookToC = true
-  BookFavicon = "w.ico"
+
+
+  BookRepo = "https://github.com/atleeruy220/psh"
+  BookEditPath = "edit/main"
+  BookCommitPath = "commit"
+  BookDateFormat = "2006/01/02"
+
   BookEditLink = "https://github.com/atleeruy220/psh/edit/main/{{ .Path }}"
 
 [languages]
