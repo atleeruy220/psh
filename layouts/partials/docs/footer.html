@@ -3,12 +3,12 @@
   <div class="flex justify-between">
     <div>
       {{ with .GitInfo }}
-        <span class="last-change">最後更新：{{ .AuthorDate | time.Format "2006-01-02" }}</span>
+        <span class="last-change">最后更新：{{ .AuthorDate | time.Format "2006-01-02" }}</span>
       {{ end }}
     </div>
     <div>
       {{ with .Site.Params.BookEditLink }}
-        <a href='{{ replace . "{{ .Path }}" $.Path }}' rel="noopener">編輯此頁</a>
+        <a href='{{ replace . "{{ .Path }}" $.Path }}' rel="noopener">编辑此页</a>
       {{ end }}
     </div>
   </div>
