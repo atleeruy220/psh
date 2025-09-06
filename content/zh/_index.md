@@ -19,4 +19,4 @@ v1.1.2
 
 ## 预览
 开发进度严重落后，应该还在睡。
- {{< figure src="img/psh.png" align="center" height="500" width="500">}}
+ {{< figure src="/img/psh.png" align="center" height="500" width="500">}}
