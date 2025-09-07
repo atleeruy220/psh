@@ -3,20 +3,16 @@ title = "首页"
 weight = 1
 +++
 
-# ...
+# 宠物星语辅助
 
-这里是 **atleeruy220** 的宝藏库。
+{{< badge style="info" title="Python" value="3.10.7" >}}
+{{< badge style="success" title="Build" value="Passing" >}}
+{{< badge style="danger" title="Issues" value="v1.1.3" >}}
 
-## 概览
-自动丢弃
+📥 开发进度严重落后。
 
-## 变化
-v1.1.3
-优化程序逻辑，部分线程处理。
-
-v1.1.2
-新增快速检测，兼容路径问题。
+## 功能
+* 一键丢弃
 
 ## 预览
-开发进度严重落后，应该还在睡。
  {{< figure src="/img/psh.png" align="center" height="500" width="500">}}
