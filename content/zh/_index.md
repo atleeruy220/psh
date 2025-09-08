@@ -15,4 +15,4 @@ weight = 1
 * 一键丢弃
 
 ## 预览
- {{< figure src="/img/psh.png" align="center" height="924" width="438">}}
+ {{< figure src="/img/psh.png" align="center" height="924" width="438" >}}
